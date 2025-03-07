@@ -40,6 +40,7 @@ Descrição dos Assignments e do Projeto
     3. Testing the Wasserstein-GAN
 
 - **#Projeto**:
+  
   *PART 1*: Implementação de modelo Bayesiano
     1. Obtenção do dataset e tratamento adequado dos dados raw (Data Cleaning, missing data, Data discretization);
     2. Análise Exploratória;
