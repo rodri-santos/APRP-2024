@@ -1,18 +1,18 @@
 Descrição dos Assignments e do Projeto
 
-- Assignment 1:
+- **#Assignment 1**:
   1. What is machine learning
   2. Different ways of learning from data
   3. Why probabilistic graphical models
   4. Major types of PGMs
 
-- Assignment 2:
+- **#Assignment 2**:
   1. What is A Probabilistic Graphical Model
   2. Modelling Conditional Probabilities as Graphs
   3. Bayesian Networks
   4. Using pgmpy package
 
-- Assignment 3:
+- **#Assignment 3**:
   
   *PART 1*: Hidden Markov Model for sequence annotation
     1. Understand sequence annotation annotation components
@@ -24,7 +24,7 @@ Descrição dos Assignments e do Projeto
     2. Parameter Learning in a Bayes Net
     3. Structure Learning in a Bayes Net
 
-- Assignment 4:
+- **#Assignment 4**:
 
   *PART 1*: Variational Autoencoders
     1. Short context
@@ -39,7 +39,7 @@ Descrição dos Assignments e do Projeto
     2. Understanding vanilla GAN architecture details
     3. Testing the Wasserstein-GAN
 
-- Projeto:
+- **#Projeto**:
   *PART 1*: Implementação de modelo Bayesiano
     1. Obtenção do dataset e tratamento adequado dos dados raw (Data Cleaning, missing data, Data discretization);
     2. Análise Exploratória;
