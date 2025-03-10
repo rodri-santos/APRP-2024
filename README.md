@@ -40,6 +40,8 @@ Descrição dos Assignments e do Projeto
     3. Testing the Wasserstein-GAN
 
 - **#Projeto**:
+
+  Desenvolvido em grupo de 2 com [Mafalda Duarte](https://github.com/mafs27).
   
   *Objetivo*:
   O	objetivo deste projeto é conduzir	uma	análise	de um	dataset	derivado do	IMDB Movies Dataset, abrangendo técnicas de pré-processamento, visualização e	modelagem	de dados com vista ao desenvolvimento	de modelos preditivos para perceber as relações entre eles. Estes objetivos devem ser atingidos dando especial	foco nos métodos abordados na disciplina - Redes Bayesianas e	Variational	Autoencoders (VAE).
